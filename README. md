@@ -1,0 +1,31 @@
+# AI Creative Infrastructure
+
+Unified, enterprise‑ready architecture for adaptive, sovereign, multi‑modal creation.
+
+This repository contains public documentation only. Sensitive evidence, raw logs, and legal artifacts are maintained in private, access‑controlled archives and are not included here.
+
+## Overview
+- Identity and authorship governance
+- Multi‑agent cognition and orchestration
+- Multi‑modal creative engines (audio, narrative, technical)
+- Workflow automation and provenance controls
+- Enterprise integration patterns
+
+## Architecture
+Identity Layer
+  ├─ Cognition Layer (multi‑agent)
+  ├─ Creative Engines (audio, narrative, technical)
+  ├─ Orchestration Layer (workflow)
+  ├─ Verification Layer (provenance)
+  └─ Deployment Layer (public artifacts)
+
+## Evidence and Provenance
+A separate, timestamped evidence corpus is preserved off‑platform for legal and partnership needs. This repository references that corpus but does not contain it.
+
+## Roadmap
+Phase 1 Documentation and Governance
+Phase 2 Platform Integrations
+Phase 3 Enterprise Rollout
+
+## License
+Documentation here is released under MIT. Implementation code and datasets are governed by separate agreements and are not included.
