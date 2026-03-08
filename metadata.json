@@ -1,0 +1,13 @@
+{
+  "artifact": "AI Creative Infrastructure Repository",
+  "version": "1.0.0",
+  "scope": "Public documentation only",
+  "contains_source_code": false,
+  "contains_personal_data": false,
+  "evidence_corpus": "Maintained in private, access-controlled archives",
+  "governance": {
+    "authorship_verification": "Out-of-band evidence corpus with timestamps and role attribution",
+    "provenance": "Commit history plus external audit logs",
+    "compliance": ["IP governance", "Data protection-aware documentation"]
+  }
+}
